@@ -28,6 +28,10 @@ Use these followin steps to run this `locally`
 
 ## Examples
 
+<img src="./extras/screenshots/example_1.png" alt="drawing" width="70%"/>
+<img src="./extras/screenshots/example_2.png" alt="drawing" width="70%"/>
+
+
 ***
 
 
