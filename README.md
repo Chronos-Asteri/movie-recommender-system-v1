@@ -7,7 +7,7 @@ Using text-vectorization and similarity-based-matrix computation
 - [Examples](#examples)
 
 ## Demo
-- Streamlit-Demo : https://pages.github.com/ .
+- Streamlit-Demo : ...working...
 
 ## Installation 
 Use these followin steps to run this `locally`
